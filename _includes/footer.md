@@ -5,13 +5,9 @@
 &mdash;
 **Impressum**
 &mdash;
+Ingenieurbüro Softwareservice Engels - Prof. Dr. Volker Engels - Mallinckrodtstr. 320 - 44137 Dortmund
 
-Ingenieurbüro Softwareservice Engels 
-Prof. Dr. Volker Engels
-Mallinckrodtstr. 320 
-44137 Dortmund 
-Email:  info@autonomer-wertstoffhof.de
-USt. IDNr.: DE210934968
+Email: info[at]autonomer-wertstoffhof.de -  USt. IDNr.: DE210934968
 
 
 -------------------------
