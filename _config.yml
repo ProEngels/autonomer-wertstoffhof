@@ -14,9 +14,12 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Autonomer Wertstoffhof "
-keywords:    "Autonomer Wertstoffhof"
-description: "Autonomer Wertstoffhof description"
+title:       "Autonomer Wertstoffhof"
+keywords:    "Autonomer Wertstoffhof, Recycling, Entsorgung, Abfallwirtschaft, Nachhaltigkeit, Mülltrennung, Umweltschutz, Ressourcenschonung, Müllentsorgung, Wertstoffe, Nachhaltiges Recycling, Umweltfreundliche Entsorgung, Müllvermeidung, Kreislaufwirtschaft, Elektroschrott, Altglas, Altpapier, Plastikrecycling, Umweltbewusstsein, Ökologische Nachhaltigkeit"
+
+## description: "Autonomer Wertstoffhof description"
+description: "Erfahren Sie alles über den autonomen Wertstoffhof - ein innovatives Konzept für die Entsorgung von Abfällen und Recyclingmaterialien. Entdecken Sie, wie ein autonomer Wertstoffhof funktioniert, welche Materialien dort entsorgt werden können und wie Sie davon profitieren können. Informieren Sie sich über die Vorteile für die Umwelt und die Gemeinschaft sowie die praktischen Aspekte der Nutzung."
+
 source_link: "https://softwareengel.github.io/autonomer-wertstoffhof/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
