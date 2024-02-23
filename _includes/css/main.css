@@ -357,14 +357,14 @@ nav ul li:hover, nav ul li.active {
 }
 
 
-.video-container {
-  position: relative;
-  width: 90%;
-  margin: 0 auto; /* Center the container */
+.video-responsive-container {
   overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+  height: 0;
 }
 
-.video-iframe {
+.video-responsive-container iframe {
   position: absolute;
   top: 0;
   left: 0;
